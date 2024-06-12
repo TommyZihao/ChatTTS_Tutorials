@@ -1,2 +1,5 @@
-# ChatTTS_Tutorials
- Step-by-step Jupyter notebook tutorials for ChatTTS
+# 开源语音合成项目ChatTTS
+
+同济子豪兄 2024-6-12
+
+云GPU环境：公众号 人工智能小技巧 回复 GPU
