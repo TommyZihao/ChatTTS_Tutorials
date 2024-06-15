@@ -2,6 +2,8 @@
 
 同济子豪兄 2024-6-12
 
+视频：https://www.bilibili.com/video/BV1Ui421v7JU
+
 云GPU环境：公众号 人工智能小技巧 回复 GPU
 
 趋动云：growthdata.virtaicloud.com/t/ea
